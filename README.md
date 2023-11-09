@@ -1,4 +1,4 @@
-<h1>Hi, I'm Marnyka, an <a href="https://linkedin.com/in/stressfreeQueen">IT Professional</a>☺</h1>
+<h1>Hi, I'm Marnyka, an aspiring <a href="https://linkedin.com/in/marnykabuttry">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
